@@ -1,0 +1,19 @@
+div div {
+  height: 100px;
+  width: 100px;
+  background-color: lawngreen;
+  border: 1px solid lightsalmon;
+}
+
+div {
+  display: flex;
+}
+
+.input {
+  width: 300px;
+  
+}
+
+p {
+  margin: auto;
+}
